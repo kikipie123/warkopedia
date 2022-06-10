@@ -1,0 +1,17 @@
+Warkopedia Website Mengunakan PHP Version 5.6.40
+Localhost Mengunakan Xampp V 3.2.3
+
+
+ADMIN AKSES WARKOPEDIA ADALAH
+USERNAME : Rifky
+PASSWORD : rifky123
+
+Cara Membuka Halaman Admin yaitu localhost/user
+Isi Halaman Admin Yaitu :
+
+Mengisi Artikel
+Mengisi Flash Android
+Mengisi Tips
+
+
+Database Mengunakan Nama "Wpdia_database"
